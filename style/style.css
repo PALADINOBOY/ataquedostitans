@@ -725,14 +725,22 @@ p{
 
 /******************** RESPONSIVIDADE ****************************/
 @media (max-width: 1400px){
-	.container-centralizar{
+	.container-centralizar {
 		width: 1300px;
+		
 	}
 }
 
-@media (max-width: 650px){
+@media (max-width: 1250px){
 	.container-centralizar{
 		width: 350px;
+	}
+
+}
+
+@media (max-width: 1250px){
+	.frame{
+		display: none;
 	}
 
 }

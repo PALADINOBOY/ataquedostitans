@@ -2,7 +2,7 @@
 const images = [
 	{'id' : '1', 'url':'./img/slide/finalseason.jpg'},
 	{'id' : '2', 'url':'./img/slide/eren5.png'},
-	{'id' : '3', 'url':'./img/slide/final5.png'},
+	{'id' : '3', 'url':'./img/slide/FINAL5.png'},
 ];
 
 const containerItems = document.querySelector("#container-items");
